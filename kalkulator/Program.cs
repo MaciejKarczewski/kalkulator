@@ -17,6 +17,7 @@ namespace kalkulator
                 Console.WriteLine("2. Diff");
                 Console.WriteLine("3. Mul");
                 Console.WriteLine("4. Div\n");
+                Console.WriteLine("5. power");
 
 
                 int menuOptions = Convert.ToInt32(Console.ReadLine());
